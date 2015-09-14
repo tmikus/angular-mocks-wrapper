@@ -1,6 +1,6 @@
 {
   "name": "angular-mocks-wrapper",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "AngularJS Mocks wrapper for NodeJS.",
   "main": "lib/index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/tmikus/angular-mocks-wrapper#readme",
   "dependencies": {
-    "angular-mocks": "^1.4.5",
-    "angular-wrapper": "^1.0.0"
+    "angular-mocks": "~1.2",
+    "angular-wrapper": "^1.2.0"
   }
 }
